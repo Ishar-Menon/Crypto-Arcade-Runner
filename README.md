@@ -1,4 +1,4 @@
-# Game-Oasis-Hackathon---Cryto-Arcade-Runner-
+# Game Oasis Hackathon - Crypto Arcade Runner
 A blockchain based unity3d game built using Matic network and Nodejs.
 
 ## Requirements
